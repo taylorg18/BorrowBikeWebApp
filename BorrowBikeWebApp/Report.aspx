@@ -6,10 +6,10 @@
     <br />
     <form id="Form_Report">
         <p>Please enter the bike number:</p>
-        <input id="Text_Report_Number" type="text" />
+        <input id="Text_Report_Number" type="text" size="4" maxlength="4"/>
         <hr />
         <p>Please describe the problem you are experiencing:</p>
-        <input id="Text_Report_Desc" type="text" />
+        <textarea id="TextArea1" cols="20" rows="6"></textarea>
         <br />
         <br />
         <input type="submit" value="Submit">
