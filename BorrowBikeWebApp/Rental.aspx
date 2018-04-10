@@ -19,7 +19,7 @@
         <asp:SqlDataSource ID="BikeTables" runat="server" ConnectionString="<%$ ConnectionStrings:BorrowBikeDatabasesConnectionString %>" SelectCommand="SELECT * FROM [BikeTable]"></asp:SqlDataSource>
     </p>
     
-    <p><asp:Image ID="Image1" runat="server" /> Road bikes: 6</p>
+    <p><asp:Image ID="Image1" runat="server" /></p>
                 
-    <p><asp:Image ID="Image2" runat="server" /> Trail bikes: 15</p>
+    <p><asp:Image ID="Image2" runat="server" /></p>
 </asp:Content>
