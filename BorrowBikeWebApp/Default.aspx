@@ -15,6 +15,8 @@
     <hr />
     <h5>See a problem with a bike? Report it here:</h5>
     <div style="text-align: center;">
-        <asp:Button ID="Button_Report" runat="server" Text="Report" Width="70%" href="~/Report" style="background-color: #003399; color: white;"/>
+        <a href="Report.asp">
+            <asp:Button ID="Button_Report" runat="server" Text="Report" Width="70%" style="background-color: #003399; color: white;"/>
+        </a>
     </div>
 </asp:Content>
