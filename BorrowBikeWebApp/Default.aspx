@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div style="padding: 10px; background-color: #003399; text-align: center; box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.3);">
-        <h1><font face="verdana" color="white" style="text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3)">BorrowBike</font></h1>
+        <h1><font face="verdana" color="white" style="text-shadow: 0px 3px 3px rgba(0, 0, 0, 0.3)"><i>The BorrowBike</i></font></h1>
     </div>
     <div style="text-align: center">
         <asp:Image ID="Image_Logo" runat="server" src="/Images/Logo.png" Width="20%" style="margin: 10px"/>
