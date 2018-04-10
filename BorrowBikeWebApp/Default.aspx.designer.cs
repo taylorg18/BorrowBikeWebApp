@@ -13,6 +13,15 @@ namespace BorrowBikeWebApp {
     public partial class _Default {
         
         /// <summary>
+        /// Image_Logo control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Image Image_Logo;
+        
+        /// <summary>
         /// Button_SignUp control.
         /// </summary>
         /// <remarks>
